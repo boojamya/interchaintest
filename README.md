@@ -8,7 +8,7 @@ HI!!
 sup
 
 automerge please?
-cool title?
+cool Make the conflict--!
 maybe head?
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/strangelove-ventures/interchaintest@main.svg)](https://pkg.go.dev/github.com/strangelove-ventures/interchaintest@main)

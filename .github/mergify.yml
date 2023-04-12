@@ -12,6 +12,7 @@ pull_request_rules:
         labels:
           - automerge
           - backport
+        title: "[Backport #{{ number }} -> {{ base }}] {{ title }}"
 
   - name: automerge backported PR's for maintained branches (v3, v3-ics, v4)
     conditions:

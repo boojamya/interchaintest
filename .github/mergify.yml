@@ -7,6 +7,7 @@ pull_request_rules:
       backport:
         branches:
           - bp_test
+          - main
         assignees: 
             - "{{ author }}"
         labels:
